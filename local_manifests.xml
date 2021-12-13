@@ -7,7 +7,7 @@
         <!-- Trees -->
         <project path="device/xiaomi/juice" name="device_xiaomi_juice" remote="lynnnnzx" revision="twelve-fusion" clone-depth="1" />
         <project path="vendor/xiaomi/juice" name="prebuilt_vendor_juice" remote="lynnnnzx" revision="11" clone-depth="1" />
-        <project path="kernel/xiaomi/juice" kernel_xiaomi_citrus_sm6115" remote="lynnnnzx" revision="rvc-inline" clone-depth="1" />
+        <project path="kernel/xiaomi/juice" name="kernel_xiaomi_citrus_sm6115" remote="lynnnnzx" revision="rvc-inline" clone-depth="1" />
         
        <!-- Clang -->
         <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="lynnnnzx" revision="13" clone-depth="1" />
