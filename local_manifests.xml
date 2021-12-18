@@ -9,7 +9,4 @@
         <project path="vendor/xiaomi/ysl" name="android_vendor_xiaomi_ysl-1" remote="lynnnnzx" revision="r11.0" clone-depth="1" />
         <project path="kernel/xiaomi/ysl" name="kernel_xiaomi_ysl" remote="lynnnnzx" revision="nad" clone-depth="1" />
         
-       <!-- Clang -->
-        <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="lynnnnzx" revision="master" clone-depth="1" />
-        
 </manifest>
