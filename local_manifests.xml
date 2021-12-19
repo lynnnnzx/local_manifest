@@ -9,4 +9,7 @@
         <project path="vendor/xiaomi/ysl" name="android_vendor_xiaomi_ysl-1" remote="lynnnnzx" revision="r11.0" clone-depth="1" />
         <project path="kernel/xiaomi/ysl" name="kernel_xiaomi_ysl" remote="lynnnnzx" revision="nad" clone-depth="1" />
         
+        <!-- Toolchain -->
+        <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-elf" name="gcc-arm64" remote="lynnnnzx" revision="gcc-master" clone-depth="1" />
+
 </manifest>
