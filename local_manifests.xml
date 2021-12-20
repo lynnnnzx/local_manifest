@@ -10,6 +10,6 @@
         <project path="kernel/xiaomi/juice" name="android_kernel_xiaomi_bengal" remote="lynnnnzx" revision="11.0" clone-depth="1" />
         
         <!-- Toolchain -->
-        <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-elf" name="gcc-arm64" remote="lynnnnzx" revision="gcc-master" clone-depth="1" />
+        <project path="prebuilts/gcc/linux-x86/aarch64/eva-gcc/aarch64-elf" name="gcc-arm64" remote="lynnnnzx" revision="gcc-master" clone-depth="1" />
  
 </manifest>
