@@ -7,7 +7,7 @@
         <!-- Trees -->
         <project path="device/xiaomi/juice" name="device_xiaomi_juice" remote="lynnnnzx" revision="derp-juice" clone-depth="1" />
         <project path="vendor/xiaomi/juice" name="prebuilt_vendor_juice" remote="lynnnnzx" revision="A11" clone-depth="1" />
-        <project path="kernel/xiaomi/juice" name="android_kernel_xiaomi_bengal" remote="lynnnnzx" revision="test" clone-depth="1" />
+        <project path="kernel/xiaomi/juice" name="android_kernel_xiaomi_bengal" remote="lynnnnzx" revision="11.0" clone-depth="1" />
         
         <!-- Toolchain -->
         <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-elf" name="gcc-arm64" remote="lynnnnzx" revision="gcc-master" clone-depth="1" />
