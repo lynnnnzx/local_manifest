@@ -6,7 +6,7 @@
 
         <!-- Trees -->
         <project path="device/xiaomi/ysl" name="android_device_xiaomi_ysl" remote="lynnnnzx" revision="nad-ysl" clone-depth="1" />
-        <project path="vendor/xiaomi/ysl" name="android_vendor_xiaomi_ysl" remote="lynnnnzx" revision="xr" clone-depth="1" />
+        <project path="vendor/xiaomi/ysl" name="android_vendor_xiaomi_ysl-1" remote="lynnnnzx" revision="r11.0" clone-depth="1" />
         <project path="kernel/xiaomi/ysl" name="Logan_Ysl" remote="lynnnnzx" revision="xr" clone-depth="1" />
 
 </manifest>
