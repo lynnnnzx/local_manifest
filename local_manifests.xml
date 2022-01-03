@@ -6,7 +6,7 @@
         <remote name="gengkapak" revision="main" fetch="https://gitlab.com/AnggaR96s" />
  
         <!-- Trees -->
-        <project path="device/xiaomi/juice" name="android_device_xiaomi_juice" remote="lynnnnzx" revision="twelve-evox" clone-depth="1" />
+        <project path="device/xiaomi/juice" name="android_device_xiaomi_juice-1" remote="lynnnnzx" revision="twelve-evox" clone-depth="1" />
         <project path="vendor/xiaomi/juice" name="android_vendor_xiaomi_juice" remote="lynnnnzx" revision="twelve" clone-depth="1" />
         <project path="kernel/xiaomi/juice" name="android_kernel_xiaomi_bengal" remote="lynnnnzx" revision="test" clone-depth="1" />
         
