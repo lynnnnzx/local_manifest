@@ -6,7 +6,7 @@
         <remote name="gengkapak" revision="main" fetch="https://gitlab.com/AnggaR96s" />
  
         <!-- Trees -->
-        <project path="device/xiaomi/juice" name="device_xiaomi_juice" remote="lynnnnzx" revision="nad-juice" clone-depth="1" />
+        <project path="device/xiaomi/juice" name="device_xiaomi_juice" remote="lynnnnzx" revision="stormbreaker-juice" clone-depth="1" />
         <project path="vendor/xiaomi/juice" name="prebuilt_vendor_juice" remote="lynnnnzx" revision="A11" clone-depth="1" />
         <project path="kernel/xiaomi/juice" name="kernel_xiaomi_citrus_sm6115" remote="lynnnnzx" revision="rvc-inline" clone-depth="1" />
         
