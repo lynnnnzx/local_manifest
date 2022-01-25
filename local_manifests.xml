@@ -3,7 +3,7 @@
 
         <!-- Remote -->
         <remote name="lynnnnzx" fetch="https://github.com/lynnnnzx" />
-        <remote name="gengkapak" revision="main" fetch="https://gitlab.com/AnggaR96s" />
+        <remote name="gengkapak" fetch="https://gitlab.com/AnggaR96s" />
  
         <!-- Trees -->
         <project path="device/xiaomi/juice" name="device_xiaomi_juice" remote="lynnnnzx" revision="nad-juice" clone-depth="1" />
@@ -11,6 +11,6 @@
         <project path="kernel/xiaomi/juice" name="kernel_xiaomi_citrus_sm6115" remote="lynnnnzx" revision="rvc-inline" clone-depth="1" />
         
         <!-- Clang -->
-        <project path="prebuilts/clang/host/linux-x86/clang-gengkapak" name="Clang-GengKapak" remote="gengkapak" clone-depth="1" />
+        <project path="prebuilts/clang/host/linux-x86/clang-gengkapak" name="Clang-GengKapak" remote="gengkapak" revision="backup" clone-depth="1" />
  
 </manifest>
