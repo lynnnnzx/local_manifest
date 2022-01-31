@@ -10,10 +10,14 @@
         <project path="vendor/xiaomi/juice" name="prebuilt_vendor_juice" remote="lynnnnzx" revision="A11" clone-depth="1" />
         <project path="kernel/xiaomi/juice" name="android_kernel_xiaomi_bengal" remote="lynnnnzx" revision="test" clone-depth="1" />
         
-        <!-- Gengkapak Clang -->
+        <!-- Clang -->
         <project path="prebuilts/clang/host/linux-x86/clang-gengkapak" name="Clang-GengKapak" remote="gengkapak" clone-depth="1" />
  
         <!-- GBoard -->
         <project path="vendor/GBoardLite" name="android_vendor_GBoardLite" remote="lynnnnzx" revision="master" clone-depth="1" />
+
+        <!-- Vendor -->
+        <remove-project name="Los-FE/android_vendor_lineage" />
+        <project path="vendor/lineage" name="android_vendor_lineage" remote="lynnnnzx" revision="lineage-18.1" clone-depth="1" />
 
 </manifest>
