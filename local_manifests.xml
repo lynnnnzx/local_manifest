@@ -3,11 +3,12 @@
 
         <!-- Remote -->
         <remote name="lynnnnzx" fetch="https://github.com/lynnnnzx" />
+        <remote name="greenforce" fetch="https://github.com/greenforce-project" />
 
         <!-- Trees -->
-        <project path="device/xiaomi/juice" name="android_device_xiaomi_juice" remote="lynnnnzx" revision="aosp" clone-depth="1" />
+        <project path="device/xiaomi/juice" name="android_device_xiaomi_juice" remote="lynnnnzx" revision="twelve-dot" clone-depth="1" />
         <project path="vendor/xiaomi/juice" name="android_vendor_xiaomi_juice" remote="lynnnnzx" revision="twelve" clone-depth="1" />
-        <project path="kernel/xiaomi/juice" name="kernel_xiaomi_citrus_sm6115" remote="lynnnnzx" revision="rvc-inline" clone-depth="1" />
+        <project path="kernel/xiaomi/juice" name="kernel_xiaomi_citrus_sm6115" remote="greenforce" revision="rvc" clone-depth="1" />
         
         <!-- Clang -->
         <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="lynnnnzx" revision="master" clone-depth="1" />
