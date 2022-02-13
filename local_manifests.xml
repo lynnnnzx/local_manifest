@@ -9,8 +9,4 @@
         <project path="vendor/xiaomi/juice" name="android_vendor_xiaomi_juice" remote="lynnnnzx" revision="twelve" clone-depth="1" />
         <project path="kernel/xiaomi/juice" name="kernel_xiaomi_citrus_sm6115" remote="lynnnnzx" revision="rvc-inline" clone-depth="1" />
 
-        <!-- Settings -->
-        <remove-project name="platform_packages_apps_Settings" />
-        <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="lynnnnzx" revision="snow" clone-depth="1" />
-
 </manifest>
