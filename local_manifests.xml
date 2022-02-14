@@ -16,4 +16,7 @@
         <!-- GBoard -->
         <project path="vendor/GBoardLite" name="android_vendor_GBoardLite" remote="lynnnnzx" revision="master" clone-depth="1" />
 
+        <!-- Lawnchair -->
+        <project path="packages/apps/Lawnchair" name="packages_apps_Lawnchair" remote="lynnnnzx" revision="12" clone-depth="1" />
+
 </manifest>
