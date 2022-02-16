@@ -14,7 +14,7 @@
         <project path="prebuilts/clang/host/linux-x86/clang-r445002" name="android_prebuilts_clang_host_linux-x86_clang-r445002" remote="crdroid-gitlab" revision="refs/heads/12.0" clone-depth="1" />
 
         <!-- GBoard -->
-        <project path="vendor/GBoardLite" name="android_vendor_GBoardLite" remote="lynnnnzx" revision="master" clone-depth="1" />
+        <project path="packages/inputmethods/Gboard" name="platform_packages_inputmethods_Gboard" remote="lynnnnzx" revision="snow" clone-depth="1" />
 
         <!-- Lawnchair -->
         <project path="packages/apps/Lawnchair" name="packages_apps_Lawnchair" remote="lynnnnzx" revision="12" clone-depth="1" />
