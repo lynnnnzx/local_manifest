@@ -13,10 +13,4 @@
         <!-- Clang 14 Version 14.0.2 -->
         <project path="prebuilts/clang/host/linux-x86/clang-r445002" name="android_prebuilts_clang_host_linux-x86_clang-r445002" remote="crdroid-gitlab" revision="refs/heads/12.0" clone-depth="1" />
 
-        <!-- GBoard -->
-        <project path="packages/inputmethods/Gboard" name="platform_packages_inputmethods_Gboard" remote="lynnnnzx" revision="snow" clone-depth="1" />
-
-        <!-- Lawnchair -->
-        <project path="packages/apps/Lawnchair" name="packages_apps_Lawnchair" remote="lynnnnzx" revision="12" clone-depth="1" />
-
 </manifest>
