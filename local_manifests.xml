@@ -13,10 +13,10 @@
         <remove-project name="xd_hardware_qcom-caf_media" />
 
         <!-- Trees -->
-        <project path="device/xiaomi/ysl" name="xd_device_xiaomi_ysl" remote="lynx" revision="twelve" clone-depth="1" />
-	<project path="device/xiaomi/msm8953-common" name="xd_device_xiaomi_msm8953-common" remote="lynx" revision="twelve" clone-depth="1" />
-        <project path="kernel/xiaomi/msm8953" name="xd_kernel_xiaomi_ysl" remote="lynx" revision="twelve" clone-depth="1" />
-        <project path="vendor/xiaomi/" name="xd_vendor_xiaomi_ysl" remote="lynx" revision="twelve" clone-depth="1" />
+        <project path="device/xiaomi/ysl" name="device_xiaomi_ysl" remote="lynx" revision="xdroid" clone-depth="1" />
+	<project path="device/xiaomi/msm8953-common" name="device_xiaomi_msm8953-common" remote="lynx" revision="twelve" clone-depth="1" />
+        <project path="kernel/xiaomi/msm8953" name="kernel_xiaomi_ysl" remote="lynx" revision="twelve" clone-depth="1" />
+        <project path="vendor/xiaomi/" name="vendor_xiaomi_ysl" remote="lynx" revision="twelve" clone-depth="1" />
 
         <!-- HALS -->
         <project path="hardware/qcom-caf/msm8996/display" name="hardware_qcom-caf" remote="lynx" revision="display-msm8996-s" clone-depth="1" />
