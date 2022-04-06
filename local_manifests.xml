@@ -2,13 +2,13 @@
 <manifest>
 
         <!-- Remote -->
-        <remote name="blaze-devices" fetch="https://github.com/ProjectBlaze-Devices" />
+        <remote name="pixelplusui-devices" fetch="https://github.com/PixelPlusUI-Devices" />
         <remote name="lynx-gitlab" fetch="https://gitlab.com/lynnnnzx" />
         <remote name="javashin" fetch="https://github.com/javashin" />
 
         <!-- Trees -->
-        <project path="device/xiaomi/juice" name="device_xiaomi_juice" remote="blaze-devices" revision="12.1" clone-depth="1" />
-        <project path="vendor/xiaomi/juice" name="vendor_xiaomi_juice" remote="blaze-devices" revision="twelve" clone-depth="1" />
+        <project path="device/xiaomi/juice" name="device_xiaomi_juice" remote="pixelplusui-devices" revision="snowcone" clone-depth="1" />
+        <project path="vendor/xiaomi/juice" name="vendor_xiaomi_juice" remote="pixelplusui-devices" revision="twelve" clone-depth="1" />
         <project path="kernel/xiaomi/juice" name="Xiaomi-Fury-Bengal-SD662" remote="javashin" revision="JuiceIcedSnow" clone-depth="1" />
         
         <!-- Clang 14 Version 14.0.2 -->
